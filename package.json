@@ -1,0 +1,28 @@
+{
+  "name": "de.melsicon.afigul.nodeexample",
+  "version": "1.0.0",
+  "description": "Example for node to call it via vue.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afigul/nodeExample.git"
+  },
+  "keywords": [
+    "Example",
+    "node",
+    "hello",
+    "world"
+  ],
+  "author": "Alexander Figul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afigul/nodeExample/issues"
+  },
+  "homepage": "https://github.com/afigul/nodeExample#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
